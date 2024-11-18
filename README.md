@@ -1,25 +1,28 @@
 #Tentang Saya
-Halo! Saya Muh Salman Alfrarisi 👨‍💻, seorang developer, desainer, dan pembelajar sejati dari Indonesia 🇮🇩. Dengan kecintaan pada teknologi, budaya, dan kreativitas, saya berfokus pada penciptaan solusi inovatif dan elegan, memadukan teknologi modern dengan sentuhan budaya lokal
-.<br>
-💻 Apa yang Saya Lakukan
-Pengembangan Front-end : Membangun aplikasi web yang responsif dan ramah pengguna menggunakan React, Vue.js, dan Tailwind CSS.
-Pengembangan Back-end : Membuat aplikasi sisi server yang dapat diskalakan dengan Node.js dan Express.
-Desain : Terampil dalam desain UI/UX dan pembuatan logo, menggabungkan estetika dengan fungsionalitas.
-Penggemar Sumber Terbuka : Kontributor berbagai proyek sumber terbuka; Saya percaya pada pentingnya memberi kembali kepada komunitas.
+Halo! Saya Muh Salman Alfrarisi 👨‍💻, seorang developer, desainer, dan pembelajar sejati dari Indonesia 🇮🇩. Dengan kecintaan pada teknologi, budaya, dan kreativitas, saya berfokus pada penciptaan solusi inovatif dan elegan, memadukan teknologi modern dengan sentuhan budaya lokal.<br>
 <br>
-🚀 Keterampilan & Tumpukan Teknologi
-Bahasa : JavaScript, Python, TypeScript, HTML/CSS
-Kerangka Kerja & Pustaka : React, Vue.js
-Alat : Git, Docker, Figma, Adobe XD
-Lainnya : RESTful API, GraphQL, PostgreSQL, MongoDB
-<br
-🌱 Saat Ini Sedang Belajar
-Menjelajahi Next.js dan GraphQL untuk aplikasi yang dapat diskalakan.
-Menyelami DevOps dengan Docker dan Kubernetes.
+💻 Apa yang Saya Lakukan<br>
+Pengembangan Front-end : Membangun aplikasi web yang responsif dan ramah pengguna menggunakan React, Vue.js, dan Tailwind CSS.<br>
+Pengembangan Back-end : Membuat aplikasi sisi server yang dapat diskalakan dengan Node.js dan Express.<br>
+Desain : Terampil dalam desain UI/UX dan pembuatan logo, menggabungkan estetika dengan fungsionalitas.<br>
+Penggemar Sumber Terbuka : Kontributor berbagai proyek sumber terbuka; Saya percaya pada pentingnya memberi kembali kepada komunitas.<br>
 <br>
-📫 Mari Terhubung!
-LinkedIn : Muhammad Salman Alfarisi
-Email : muhammadsalmanjr990 @gmail .com
+<br>
+🚀 Keterampilan & Tumpukan Teknologi<br>
+Bahasa : JavaScript, Python, TypeScript, HTML/CSS<br>
+Kerangka Kerja & Pustaka : React, Vue.js<br>
+Alat : Git, Docker, Figma, Adobe XD<br>
+Lainnya : RESTful API, GraphQL, PostgreSQL, MongoDB<br>
+<br>
+<br>
+🌱 Saat Ini Sedang Belajar<br>
+Menjelajahi Next.js dan GraphQL untuk aplikasi yang dapat diskalakan.<br>
+Menyelami DevOps dengan Docker dan Kubernetes.<br>
+<br>
+<br>
+📫 Mari Terhubung!<br>
+LinkedIn : Muhammad Salman Alfarisi<br>
+Email : muhammadsalmanjr990 @gmail .com<br>
 <br>
 
 ## 🌐 Socials:
